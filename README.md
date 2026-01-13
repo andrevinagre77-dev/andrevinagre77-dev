@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.git.png" width="600">
+</p>
 
-<!--
-**andrevinagre77-dev/andrevinagre77-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, sou o André Vinagre! 👋
 
-Here are some ideas to get you started:
+### 📊 Analista de Dados | Especialista em Insights com IA Generativa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Transformo dados complexos em decisões estratégicas e lucrativas. Utilizo o poder da **IA Generativa** para otimizar códigos Python, acelerar o processamento de dados e criar dashboards de alto impacto.
+
+---
+
+## 🛠️ Tecnologias & Competências
+* **Linguagens:** Python (Pandas, Plotly, Streamlit)
+* **IA Generativa:** Engenharia de Prompt para Data Science e Automação
+* **Ferramentas:** Git, GitHub, VS Code, Render
+
+## 🚀 Projeto em Destaque
+**[Análise de Mercado de Veículos](https://github.com/andrevinagre77-dev/projeto_veiculos)**
+* Dashboard interativo desenvolvido para a TripleTen.
+* **Diferencial IA:** Lógica de tratamento de dados e visualização assistida por IA para máxima precisão.
